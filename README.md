@@ -1,4 +1,4 @@
-# Hi 👋, I'm KrzysztofCiborowski
+# Hi 👋, I'm Krzysztof Ciborowski
 
 - 🔭 I'm currently working on **DirtCore**
 
